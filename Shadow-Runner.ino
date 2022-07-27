@@ -15,7 +15,7 @@
 */
 
 // determine the game
-#define GAME_ID 15
+#define GAME_ID 1
 
 #include "globals.h"
 #include "runner.h"
